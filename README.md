@@ -3,7 +3,6 @@
 ## Project Overview
 
 This project is my TS Academy capstone project, built to analyze logistics operations and provide insights into areas such as driver performance, route profitability, fleet utilization, fuel usage, maintenance, and safety.
-
 The project uses a relational dataset containing 14 tables covering drivers, trucks, trailers, customers, routes, loads, trips, fuel, maintenance, safety incidents, and other operational data.
 ---
 ## Skills Demonstrated
