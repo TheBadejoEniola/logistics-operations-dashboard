@@ -1,11 +1,11 @@
-## logistics-operations-dashboard
----
+# logistics-operations-dashboard
+
 ## Project Overview
 
 This project is my TS Academy capstone project, built to analyze logistics operations and provide insights into areas such as driver performance, route profitability, fleet utilization, fuel usage, maintenance, and safety.
 The project uses a relational dataset containing 14 tables covering drivers, trucks, trailers, customers, routes, loads, trips, fuel, maintenance, safety incidents, and other operational data.
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 * Data cleaning and transformation
 * Data modeling and relationships
@@ -14,27 +14,20 @@ The project uses a relational dataset containing 14 tables covering drivers, tru
 * KPI development
 * Data analysis and interpretation
 * Interactive reporting
-  
+
+---
 ## Tools Used
 
 * Power BI
 * Power Query
 * DAX
 
-## Dashboard Review
+---
+## Dashboard Preview
 
-The dashboard provides insights into different areas of logistics operations, including:
+![Logistics-operations-dashboard](Overview.png)
 
-* Driver Performance
-* Route Profitability
-* Fleet Utilization
-* Maintenance
-* Fuel Analysis
-* Safety Incidents
-* Overall Operations
-
-Interactive visuals and filters allow users to explore the data and identify trends and areas that may require attention.
-
+---
 ## Key Insights
 
 - **₦262.53M total revenue** generated with **₦225.09M in profit**, resulting in an **86% profit margin**.
@@ -57,6 +50,7 @@ Interactive visuals and filters allow users to explore the data and identify tre
 * [Fuel and maintenance dashboard.](Fuel_Maintenance.png)
 * README.md — Project documentation.
 
+---
 ## Conclusion
 
 This project gave me the opportunity to apply the data analytics skills I have developed during my time at TS Academy, from preparing and modeling data to creating an interactive Power BI dashboard and drawing insights from the data.
